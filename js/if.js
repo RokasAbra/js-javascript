@@ -23,12 +23,12 @@ Palyginimo operatoriai:
 */
 
 const a = 7;
-const b = 55;
+const b = 5;
 
-if (a > b) {
-    console.log('A yra daugiau uz B');
+if (a == b) {
+    console.log('A yra lygu B');
 } else {
-    console.log('A nera daugiau uz B');
+    console.log('A nera lygu B');
 
 }
 
