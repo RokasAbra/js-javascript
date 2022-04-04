@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./js/variables.js",
-    "dv": "nodemon ./js/11-liekana.js",
+    "dv": "nodemon ./js/12-daugyba.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
